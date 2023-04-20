@@ -44,7 +44,7 @@ header {
     margin-left: 10vw;
     transition-duration: 1s;
     transition-timing-function: ease;
-    background-color: #59431b;
+    /*background-color: #59431b;*/
 
 }
 
@@ -57,7 +57,7 @@ nav a{
     font-weight: 700;
     color: antiquewhite;
     padding-left: 10px;
-    background-color: #000000;
+    /*background-color: #000000;*/
 }
 /*---------------------------------------*/
 
